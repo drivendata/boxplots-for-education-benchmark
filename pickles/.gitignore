@@ -1,0 +1,7 @@
+# IGNORE DATA DIRECTORIES
+# Often the data for an organization is too big for GitHub. We'll ignore the data
+# for syncing and use another method for making sure we have the same dataset.
+
+*
+
+!.gitignore
